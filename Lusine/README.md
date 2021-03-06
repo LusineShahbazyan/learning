@@ -7,7 +7,7 @@ The button "Paint/Erase activated" only works when you use mouse down and drag.
 Size can't be greater than 100.
 
 ## ***Usage***
-[Go to](https://vue-pixel-art.now.sh/)
+Go to https://vue-pixel-art.now.sh/
 
 ## ***Todo***
 - Add Unit tests with Jest.
