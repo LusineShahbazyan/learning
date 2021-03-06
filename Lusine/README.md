@@ -1,4 +1,4 @@
-#**PIXEL  ART**
+# **PIXEL  ART**
 Pixel Art is an easy way to draw your Pixel Arts and get the CSS code generated from it. 
 ##**Instructions**
 Click on a square to paint. If it is already painted, that square will be transparent again.
