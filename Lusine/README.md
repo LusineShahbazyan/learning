@@ -16,5 +16,4 @@ Go to https://vue-pixel-art.now.sh/ and have fun!
 - Add E2E tests with Cypress.
 - Add mouse drag and paint.
 - Add Vuejs pixel logo on README and favicon.ico.
-- Deploy.
 
