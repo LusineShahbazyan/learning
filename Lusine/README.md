@@ -10,3 +10,6 @@ npm run client-install
 npm run dev
 
 ### Server runs on http://localhost:5000 and client on http://localhost:3000
+
+### Functional Specification Document
+Go to https://docs.google.com/document/d/1ScTjC0TPUkKFHOnRSIoKOG10LRMOKcFBom0zeYezeqE/edit?usp=sharing
