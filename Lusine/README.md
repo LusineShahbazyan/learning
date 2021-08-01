@@ -1,5 +1,11 @@
 # Project with React, Express, MySQL
 
+### Mysql
+create user with username "newuser" and password  "$Password123"
+create database with name "reactshop"
+
+mysql -u newuser -p reactshop < /path/to/react-mysql-shop/products.sql 
+
 ### Install dependencies for server
 npm install
 
