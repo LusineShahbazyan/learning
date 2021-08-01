@@ -1,19 +1,21 @@
-# **PIXEL  ART**
-Pixel Art is an easy way to draw your Pixel Arts and get the CSS code generated from it. 
-## **Instructions**
-Click on a square to paint. 
-If it is already painted, that square will be transparent again.
-Hold mouse down and drag your mouse everywhere in the grid to paint.
-The button "Paint/Erase activated" only works when you use mouse down and drag.
-Size can't be greater than 100.
+## Project with React, Express, MySQL
 
-## ***Usage***
-Go to https://vue-pixel-art.now.sh/ and have fun!
+## MySQL: 
+OpenServer as local Server
+DB dump: products.sql
 
-## ***Todo***
-- Add Unit tests with Jest.
-- Add Redo/Undo.
-- Add E2E tests with Cypress.
-- Add mouse drag and paint.
-- Add Vuejs pixel logo on README and favicon.ico.
+Code to create the database: copy code into db.sql file and paste it in Heidi consults.
 
+## Quick Start
+
+``` bash
+# Install dependencies for server
+npm install
+
+# Install dependencies for client
+npm run client-install
+
+# Run the client & server with concurrently
+npm run dev
+
+# Server runs on http://localhost:5000 and client on http://localhost:3000
