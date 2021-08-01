@@ -8,7 +8,6 @@ Code to create the database: copy code into db.sql file and paste it in Heidi co
 
 ## Quick Start
 
-``` bash
 # Install dependencies for server
 npm install
 
