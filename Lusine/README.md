@@ -1,13 +1,5 @@
 # Project with React, Express, MySQL
 
-## MySQL: 
-OpenServer as local Server
-DB dump: products.sql
-
-Code to create the database: copy code into db.sql file and paste it in Heidi consults.
-
-## Quick Start
-
 ### Install dependencies for server
 npm install
 
