@@ -14,10 +14,10 @@ CREATE USER  newuser@'localhost' IDENTIFIED BY  '$Password123';
 Create database with name  "reactshop" by running the following command:                             
 CREATE DATABASE reactshop;
 
-To exit the database
+To exit the database                                                      
 ctrl+Z
 
-To bind the database to the project
+To bind the database to the project                                                            
 mysql -u newuser -p reactshop < /path/to/onlineshop/products.sql 
 
 ### Install dependencies for server
